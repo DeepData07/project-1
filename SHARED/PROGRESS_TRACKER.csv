@@ -1,5 +1,5 @@
 "project","phase","task_id","task_title","status","branch","commit","pull_request","learn_gate","coding_gate","tests","review_status","environment","artifact_links","blocker","next_action","updated_date"
-"P1","0","P1-00","Kickoff, baseline assessment and delivery charter","IN_REVIEW","docs/p1-00-charter","","","OPEN","OPEN","","PENDING_REVIEW","LOCAL","docs/project-charter.md; docs/skill-baseline.md","","Submit P1-00 docs and git status for review","2026-07-26"
+"P1","0","P1-00","Kickoff, baseline assessment and delivery charter","IN_REVIEW","docs/p1-00-charter","c52cb1f","https://github.com/DeepData07/project-1/pull/1","OPEN","OPEN","N/A docs-only","PR_REVIEWED","LOCAL","docs/project-charter.md; docs/skill-baseline.md; https://github.com/DeepData07/project-1/pull/1","","Update PR body with required review sections, then merge after approval","2026-07-26"
 "P1","0","P1-01","Local toolchain and account safety check","NOT_STARTED","","","","CLOSED","CLOSED","","","LOCAL","","","Read task assignment and prerequisites",""
 "P1","1","P1-02","Product requirements and acceptance scenarios","NOT_STARTED","","","","CLOSED","CLOSED","","","LOCAL","","","Read task assignment and prerequisites",""
 "P1","1","P1-03","NFRs, capacity model and cost envelope","NOT_STARTED","","","","CLOSED","CLOSED","","","LOCAL","","","Read task assignment and prerequisites",""
